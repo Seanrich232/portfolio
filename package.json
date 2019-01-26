@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SeanRich232.github.io/seanrichportfolio",
+  "homepage": "https://SeanRich232.github.io/portfolio",
   "dependencies": {
     "bootstrap": "^4.2.1",
     "gh-pages": "^2.0.1",
