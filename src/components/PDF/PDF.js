@@ -1,7 +1,7 @@
 import React from 'react';
 import { PDFObject } from 'react-pdfobject';
 import { Modal } from 'reactstrap';
-import resume from '../../assets/resume/resume2.4.pdf';
+import resume from '../../assets/resume/resume2.1.pdf';
 
 class PDFModal extends React.Component {
   render() {
